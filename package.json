@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-backend",
+  "description": "Projeto utilizando nodejs e express no backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagodosantos/nodejs-express-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/thiagodosantos/nodejs-express-backend/issues"
+  },
+  "homepage": "https://github.com/thiagodosantos/nodejs-express-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
